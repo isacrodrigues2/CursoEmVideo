@@ -9,3 +9,4 @@ while True:
         print(f'{num} x {cont} = {num * cont}')
     print('_'*30)
 print('PROGRAMA DE TABUADA ENCERRADO, VOLTE SEMPRE')
+input()
