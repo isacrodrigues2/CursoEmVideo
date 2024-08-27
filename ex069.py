@@ -30,3 +30,4 @@ while True:
 print(f'Total de pessoas com mais de 18 anos {totidade}')
 print(f'Total de homens digitados {tothomens}')
 print(f'Total de mulhers com menos de 20 anos {totmulhermenos20}')
+input()
