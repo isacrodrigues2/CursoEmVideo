@@ -1,4 +1,4 @@
-from curses.ascii import *
+
 
 a = input('Digite Algo: ')
 print('O tipo primitivo desse valor é', type(a))
