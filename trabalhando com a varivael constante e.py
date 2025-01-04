@@ -1,7 +1,7 @@
 import math
-#Exponeciador ao quadrado de math.e
-#primeiro_resultado= float( math.e , 2)
-#print(primeiro_resultado)
+#INSPECIONADOR ao quadrado de math.e
+primeiro_resultado= float( math.e ** 2)
+print(primeiro_resultado)
 #utilizando o mat.pow para elevaro math.e a 2
 segundo_resultado= math.pow(math.e, 2)
 print(segundo_resultado)
@@ -203,6 +203,3 @@ print(segundo_resultado)
 
 
 
-
-
-eiro_resultado)
